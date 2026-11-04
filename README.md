@@ -31,8 +31,8 @@ Requirements for the Python code are the following modules:,
 
 Our working is shown in our own directories,
 
-* EdenC/work
-* HanaS/work
-* MichalRF/work
+* EdenC/
+* HanaS/
+* MichalRF/
   
 We all did our indiviudal analysis of the data, then collaberated on the introduction and conclusion
