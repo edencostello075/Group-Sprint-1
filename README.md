@@ -12,10 +12,10 @@ All report content and the data is in the directory:
 
 The report takes the following structure:
 * 01-Introduction.pdf
-* 03-Analysis1.pdf
+* 02-Analysis1.pdf
 * 03-Analysis2.pdf
-* 03-Analysis3.pdf
-* 04-Conclusion.pdf
+* 04-Analysis3.pdf
+* 05-Conclusion.pdf
 
 
 ### Requirements:
